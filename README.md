@@ -29,3 +29,27 @@ _For example: a user may have id, name, email, phone_
 Your proposal is to be submitted AFTER the Portfolio Project Requirements and Repo have been shared with you in class. 
 
 Please submit your proposal in a **group message with JD && Carlos** via Slack.
+
+
+## Project Idea:
+
+Using the previous project from mod 2, I will recreate a new generator, where you can create, update, and delete agents. 
+
+
+## User Stories:
+
+- As a user, you will be greeted bt a welcome page. Welcome page will have a breif summary of project and a "continue" button. Clicking the continue button will send you to the home page.
+
+- As a user, the home page will have a Agent card randomizing generator. (when agent is selected, agent's abilities will show).
+
+- As a user, there will be a page to navigate to the Agents (card). when agent is clicked on, it will show the agents description. 
+
+- As a user, you are able to create, update, and delete your own agent. 
+
+- As a user, there will be a page to navigate to an About me page.
+
+
+## Wire frame:
+
+![20230207_125158](https://user-images.githubusercontent.com/105737721/217326534-3aba2778-cbe4-47b7-b162-8d222573c8c0.jpg)
+
